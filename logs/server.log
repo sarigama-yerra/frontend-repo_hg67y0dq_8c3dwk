@@ -1,0 +1,13 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 226 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.55.44:3000/
+5:09:43 PM [vite] ✨ new dependencies optimized: @splinetool/react-spline
+5:09:43 PM [vite] ✨ optimized dependencies changed. reloading
+The file does not exist at "/home/workspace/node_modules/.vite/deps/chunk-I4MZPW7S.js?v=35394813" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
+The file does not exist at "/home/workspace/node_modules/.vite/deps/chunk-XPR23Y44.js?v=35394813" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
